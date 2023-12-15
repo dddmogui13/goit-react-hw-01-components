@@ -1,0 +1,17 @@
+.box {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  width: 370px;
+  margin-bottom: 40px;
+}
+
+.friendList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0;
+  width: inherit;
+}
